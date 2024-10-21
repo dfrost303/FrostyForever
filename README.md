@@ -1,2 +1,3 @@
 # FrostyForever
-Skyrim AE modlist
+
+This Skyrim AE modlist is in DRAFT
